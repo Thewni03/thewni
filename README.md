@@ -1,27 +1,84 @@
-<h1 align="center">Hi 👋, I'm Thewni Mahathanthree</h1>
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Thewni%20Mahathantri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThewniMahathanthree&label=Profile%20views&color=0e75b6&style=flat" alt="ThewniMahathanthree" /> </p>
+<h1 align="center">Hi 👋, I'm Thewni Mahathantri</h1>
+<h3 align="center">A Passionate Backend Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThewniMahathanthree" alt="ThewniMahathanthree" /></a> </p>
-
-- 🔭 I’m currently working on **ITP project**
-
-- 🌱 I’m currently learning **Phython**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **ThewniMahathanthree@gmail.com**
-
-- ⚡ Fun fact **Call me Thew**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/sl hit songs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl hit songs" height="30" width="40" /></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Backend+Developer+💻;Java+%7C+Kotlin+%7C+Python+Learner;Turning+Ideas+Into+Digital+Solutions+✨;Future+Tech+Queen+👑" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/UsharaChamudithaKumara"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="UsharaChamudithaKumara" /></a></p><br><br>
+### 👩‍💻 About Me
+
+- 🔭 I’m currently working on **ITP Project**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Java & Backend Development**
+- 📫 Reach me at **ThewniMahathanthree@gmail.com**
+- ⚡ Fun fact: **Call me Thew 💕**
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thewni03&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thewni03&theme=radical&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,js,php,cpp,c,androidstudio,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thewni03&show_icons=true&theme=radical&border_radius=20" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thewni03&theme=radical&border_radius=20" height="170"/>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thewni03&theme=tokyo-night"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.youtube.com/" target="blank">
+<img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+</a>
+</p>
+
+---
+
+### 💖 Motto
+
+✨ Code like a queen  
+✨ Build with confidence  
+✨ Grow, Glow & Conquer Tech  
+
+---
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>

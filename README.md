@@ -30,5 +30,5 @@ Reach me at **thewni2003@gmail.com**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thewni03&theme=radical&border_radius=20" height="170"/>
 </p>
 
-- Animated Footer -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>

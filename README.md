@@ -31,21 +31,16 @@
 
 <br/>
 
----
-<br/>
-
-<img src="./candles.svg" width="100%"/>
 
 <br/>
 
----
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thewni03&bg_color=2d0a1e&color=FF6B9D&line=FFB6C1&point=ffffff&area=true&hide_border=true&area_color=FF6B9D" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thewni03&bg_color=ffffff&color=111827&line=111827&point=111827&area=false&hide_border=true" width="100%"/>
 
 <br/>
 
 <img src="./spiders.svg" width="100%"/>
+
+
 
 <br/>
 
